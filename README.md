@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @ImanaCoder
-- 👀 I’m interested in Web and Mobile app development...
-- 🌱 I’m currently learning ASP .NET and Flutter...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  imanalimbu@gmail.com...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-ImanaCoder/ImanaCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @ImanaCoder  
+- 🤖 I’m passionate about Artificial Intelligence and Data Science  
+- 🌱 I’m currently exploring Machine Learning, Deep Learning, and Data Analysis using Python  
+- 📊 I enjoy working with real-world data to uncover insights and build intelligent solutions  
+- 💞️ I’m looking to collaborate on AI projects, research, and open-source tools for data science  
+- 📫 How to reach me: imanalimbu@gmail.com  
+- 😄 Pronouns: she/her 
+- ⚡ Fun fact: I see the world in patterns and probabilities — always curious about what the data says next!
